@@ -1,0 +1,16 @@
+.volumeText
+{
+    position: absolute;
+    z-index: 100;
+    color: yellow;
+    background: transparent;
+    font-size: xx-large;
+    margin: 20px 0px 0px 30px;
+    transition: opacity .2s ease-out;
+    opacity: 1;
+}
+
+.fade
+{
+    opacity: 0;
+}
