@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "YouTube Volume Scroll Master",
     "version": "0.5.0.0",
     "description": "Makes the YouTube Volume go woosh when scrolling over the video!",
