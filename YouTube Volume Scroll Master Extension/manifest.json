@@ -4,7 +4,7 @@
     "version": "0.5.0.0",
     "description": "Makes the YouTube Volume go woosh when scrolling over the video!",
     "short_name": "YtScrollMaster",
-    "permissions": ["declarativeContent"],
+    "permissions": [],
     "content_scripts": [
       {
         "matches": ["*://www.youtube.com/*"],
