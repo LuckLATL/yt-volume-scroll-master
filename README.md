@@ -17,8 +17,9 @@
 [![GitHub license](https://img.shields.io/github/license/LuckLATL/yt-volume-scroll-master?style=for-the-badge)](https://github.com/LuckLATL/yt-volume-scroll-master/blob/master/LICENSE)
 
 </div>
-    <a href="https://github.com/LuckLATL/yt-volume-scroll-master/issues">Report Bug</a>
-  </p>
+ <a href="https://chrome.google.com/webstore/detail/youtube-volume-scroll-mas/pkmkphhocffbdebfbkohpnnaohidfama">Get From Chrome Store</a>
+    •
+ <a href="https://github.com/LuckLATL/yt-volume-scroll-master/issues">Report Bug</a>
 </div>
 
 # About
