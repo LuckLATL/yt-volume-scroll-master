@@ -13,8 +13,10 @@
     <br />
 <div>
 
-[![GitHub issues](https://img.shields.io/github/issues/LuckLATL/yt-volume-scroll-master?style=for-the-badge)](https://github.com/LuckLATL/yt-volume-scroll-master/issues)
 [![GitHub license](https://img.shields.io/github/license/LuckLATL/yt-volume-scroll-master?style=for-the-badge)](https://github.com/LuckLATL/yt-volume-scroll-master/blob/master/LICENSE)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pkmkphhocffbdebfbkohpnnaohidfama?color=blue&label=VERSION&style=for-the-badge)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pkmkphhocffbdebfbkohpnnaohidfama?color=green&label=Downloads&style=for-the-badge)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/pkmkphhocffbdebfbkohpnnaohidfama?color=green&style=for-the-badge)
 
 </div>
  <a href="https://chrome.google.com/webstore/detail/youtube-volume-scroll-mas/pkmkphhocffbdebfbkohpnnaohidfama">Get From Chrome Store</a>
